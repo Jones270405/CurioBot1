@@ -1,5 +1,5 @@
 import streamlit as st
-from agents.resource_finder import get_resources
+import get_resources
 
 # Dictionary: topic -> description
 topic_list = {

@@ -1,7 +1,7 @@
 import streamlit as st
-from agents import user_profile, topic_explorer
-from agents.drafting_assistant import draft_research_paper
-from agents.resource_finder import get_resources
+import user_profile, topic_explorer
+import draft_research_paper
+import get_resources
 
 st.set_page_config(page_title="CurioBot", layout="centered")
 st.title("🎓 CurioBot: Your Research Thinking Assistant")

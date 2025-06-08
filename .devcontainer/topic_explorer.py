@@ -1,5 +1,6 @@
 import streamlit as st
-import get_resources
+from resource_finder import get_resources
+
 
 # Dictionary: topic -> description
 topic_list = {

@@ -1,5 +1,6 @@
 import streamlit as st
-import user_profile, topic_explorer
+from user_profile import collect_user_profile
+from topic_explorer import show_topic_info
 from drafting_assistant import draft_research_paper
 from resource_finder import get_resources
 

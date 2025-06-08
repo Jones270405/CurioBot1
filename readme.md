@@ -10,9 +10,10 @@ CurioBot is an AI Agent built using the DeepThought AI Agent Framework. It helps
 - Feedback about the paper
 
 ## How to Use:
-1. Click "Run" in Replit
+1. Chane the directory : cd C:\Users\Admin\OneDrive\Desktop\CurioBot\CurioBot
 2. Enter your topic of interest
 3. Follow the prompts
 4. Your paper draft is saved in `Research_Draft.txt`
+5. To run : streamlit run main.py 
 
-Built with ❤️ using Python on Replit.
+Built with ❤️ using Python.
